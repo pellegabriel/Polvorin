@@ -1,0 +1,22 @@
+
+.App {
+  padding-top: 36px;
+  text-align: center;
+  background: linear-gradient(to bottom, rgb(92, 15, 155), rgb(10, 5, 5));
+  
+}
+.SearchForm-wrapper {
+  text-emphasis-color: black;
+  display: flex;
+  justify-content: center;
+}
+.MoviesList {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  padding: 16px;
+}
+.MoviesList-item{
+  margin-bottom: 24px;
+  width: 40%;
+}
